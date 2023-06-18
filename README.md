@@ -3,7 +3,7 @@
 - I'm currently a rising sophomore studying Computer Science and Mathematics at **Depauw University**, USA ⛪️
 - 🌱 I’m currently learning **React** and other web technologies
 - 😄 Pronouns: he/him/his
-# 🛠 Technologies and Operating systems I use
+# 🛠 Technologies I use
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phananhnguyen1204" /> 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
