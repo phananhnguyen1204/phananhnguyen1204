@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **`React`** and other web technologies
 - 😄 Pronouns: he/him/his
 # 🛠 Technologies I use
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phananhnguyen1204" /> 
+
 
 
 
