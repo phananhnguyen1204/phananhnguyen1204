@@ -5,7 +5,7 @@
 - 😄 Pronouns: he/him/his
 # 🛠 Technologies I use
 
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phananhnguyen1204" /> 
 
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
