@@ -1,7 +1,7 @@
 # Hi there, I'm Phan 👋
 # 👨🏻‍💻 Introduction
 - I'm currently a rising sophomore studying Computer Science and Mathematics at **`Depauw University`**, USA ⛪️
-- 🌱 I’m currently learning **`React`** and other web technologies
+- 🌱 I’m currently learning **`MERN Stack`** and other web technologies
 - 😄 Pronouns: he/him/his
 # 🛠 Technologies I use
 
