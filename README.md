@@ -21,8 +21,6 @@ algorithms, data structures, programming languages, software design, web develop
 
 
 I'm a student
-
-* 🌍  I'm based in Vi
 * ✉️  You can contact me at [phananhnguyen\_2026@depauw.edu](mailto:phananhnguyen_2026@depauw.edu)
 
 ### Skills
