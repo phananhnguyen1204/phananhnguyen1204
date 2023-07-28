@@ -8,21 +8,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phananhnguyen1204" /> 
 
-# ⚡ Interest
-Let's connect and talk about…
-
-algorithms, data structures, programming languages, software design, web development, soccer, college life,
-
-…or anything you'd like. （๑╹◡╹๑）
-
-
- ✨ **"Don't tell people your dream. Show them!!!"** ✨
-
-
-
-I'm a student
-* ✉️  You can contact me at [phananhnguyen\_2026@depauw.edu](mailto:phananhnguyen_2026@depauw.edu)
-
 ### Skills
 
 
@@ -53,3 +38,18 @@ I'm a student
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/phan9319" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/https://www.facebook.com/profile.php?id=100009526303831" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/phananhnguyen1204" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+
+# ⚡ Interest
+Let's connect and talk about…
+
+algorithms, data structures, programming languages, software design, web development, soccer, college life,
+
+…or anything you'd like. （๑╹◡╹๑）
+
+
+ ✨ **"Don't tell people your dream. Show them!!!"** ✨
+
+
+
+I'm a student
+* ✉️  You can contact me at [phananhnguyen\_2026@depauw.edu](mailto:phananhnguyen_2026@depauw.edu)
