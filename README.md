@@ -48,8 +48,3 @@ algorithms, data structures, programming languages, software design, web develop
 
 
  ✨ **"Don't tell people your dream. Show them!!!"** ✨
-
-
-
-I'm a student
-* ✉️  You can contact me at [phananhnguyen\_2026@depauw.edu](mailto:phananhnguyen_2026@depauw.edu)
