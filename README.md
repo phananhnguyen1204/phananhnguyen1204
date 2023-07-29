@@ -8,7 +8,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phananhnguyen1204" /> 
 
-### Skills
+# Skills
 
 
 <p align="left">
@@ -35,7 +35,7 @@
 </p>
 
 
-### Socials
+# Socials
 
 <p align="left"> <a href="https://discord.com/users/phan9319" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/https://www.facebook.com/profile.php?id=100009526303831" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/phananhnguyen1204" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
