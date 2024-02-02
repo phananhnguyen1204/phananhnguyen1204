@@ -2,7 +2,7 @@
 ============================================================================================================================
 # 👨🏻‍💻 Introduction
 - I'm currently a rising sophomore studying Computer Science and Mathematics at **`Depauw University`**, USA ⛪️
-- 🌱 I’m currently learning **`MERN Stack`** and other web technologies
+- 🌱 I’m currently learning **`Competitive Programming`**
 - 😄 Pronouns: he/him/his
 # 🛠 Technologies I use
 
