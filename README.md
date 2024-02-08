@@ -19,7 +19,7 @@
 
 ###
 
-<h3 align="left">- Programming Languages</h3>
+<h3 align="left">⭐️ Programming Languages</h3>
 
 ###
 
@@ -51,7 +51,7 @@
 
 ###
 
-<h3 align="left">- Frameworks & Libraries</h3>
+<h3 align="left">⭐️ Frameworks & Libraries</h3>
 
 ###
 
@@ -87,13 +87,11 @@
 
 ###
 
-<h3 align="left">- Technologies & Tools</h3>
+<h3 align="left">⭐️ Technologies & Tools</h3>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
   <img width="3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
@@ -129,7 +127,8 @@
 
 ###
 
-<h3 align="left">- Databases</h3>
+<h3 align="left">⭐️ Databases</h3>
+Databases
 
 ###
 
@@ -147,7 +146,7 @@
 
 ###
 
-<h3 align="left">- Concepts</h3>
+<h3 align="left">⭐️ Concepts</h3>
 
 ###
 
@@ -172,4 +171,5 @@
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
 </div>
-###
+
+
