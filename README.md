@@ -1,7 +1,6 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=300&duration=4000&lines=Hi+There!+👋;+I'm+Jackie+Phan!;&color=41B883" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=250&duration=4000&lines=Hi+There!+👋;+I'm+Jackie+Phan!;&color=41B883" />
 </h1>
-<br>
 <hr>
 <h2 align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" align="center" /> About Me: </h2>
 
