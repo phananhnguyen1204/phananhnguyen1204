@@ -18,9 +18,9 @@
 
 <br><br><br>
 <hr>
-<h2 align="center">⚒️ Technologies Phan used ⚒️</h2>
+<h2 align="center">💚 Technologies that Phan used 💚</h2>
 
-<h3 align="left">⭐️ Programming Languages</h3>
+<h4 align="left">Programming Languages ✅</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -48,7 +48,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-original.svg" height="40" alt="erlang logo"  />
 </div>
 
-<h3 align="left">⭐️ Frameworks & Libraries</h3>
+<h4 align="left">Frameworks & Libraries ✅</h3>
 
 
 <div align="left">
@@ -80,7 +80,7 @@
 </div>
 
 
-<h3 align="left">⭐️ Technologies & Tools</h3>
+<h4 align="left">Technologies & Tools ✅</h3>
 
 
 <div align="left">
@@ -118,7 +118,7 @@
 </div>
 
 
-<h3 align="left">⭐️ Databases</h3>
+<h4 align="left">Databases ✅</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
@@ -135,7 +135,7 @@
 <br><br><br>
 <hr>
 
-<h2 align="center">⚡ Stats ⚡ </h3>
+<h2 align="center">🐍 Stats 🐍</h3>
 
 <br clear="both">
 <div align="center">
@@ -143,7 +143,8 @@
   <img src="https://streak-stats.demolab.com?user=phananhnguyen1204&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=5&order=3" height="175" alt="streak graph"  />
 </div>
 
-
-<img src="https://raw.githubusercontent.com/phananhnguyen1204/phananhnguyen1204/output/snake.svg" alt="Snake animation" />
+<div align="center">
+    <img src="https://raw.githubusercontent.com/phananhnguyen1204/phananhnguyen1204/output/snake.svg" alt="Snake animation" />
+</div>
 
 
