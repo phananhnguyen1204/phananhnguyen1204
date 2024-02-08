@@ -18,10 +18,8 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
 </div>
 
-
-<br><br>
 <hr>
-<h2 align="center"><img src="https://camo.githubusercontent.com/e6f99e5b069fe7b9be30129d84ec8e73a9914095ceee663b36275fc6769369b7/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f336f4b49506b4858705550386c494f3041552f67697068792e676966" height="45" alt="logo">  Technologies that Phan used </h2>
+<h2 align="center"><img src="https://camo.githubusercontent.com/e6f99e5b069fe7b9be30129d84ec8e73a9914095ceee663b36275fc6769369b7/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f336f4b49506b4858705550386c494f3041552f67697068792e676966" height="40" alt="logo">  Technologies that Phan used </h2>
 
 <h4 align="left">✅ Programming Languages ✅</h3>
 
