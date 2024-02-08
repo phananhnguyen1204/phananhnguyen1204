@@ -2,25 +2,28 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=250&duration=4000&lines=Hi+There!+👋;+I'm+Jackie+Phan!;&color=41B883" />
 </h1>
 <hr>
-<h2 align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" align="center" /> About Me: </h2>
+<h2 align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50" align="center" /> About Me </h2>
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning cloud native and microservices<br>🎯 Goals: ...<br>🎲 : ...</p>
+<ul>
+    <li>
+        Vice President at Depauw Mathematics Club
+    </li>
+    
+</ul>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  <a href="https://www.linkedin.com/in/phanng/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
 </div>
 
 
-<br><br><br>
+<br><br>
 <hr>
-<h2 align="center">💚 Technologies that Phan used 💚</h2>
+<h2 align="center"><img src="https://camo.githubusercontent.com/e6f99e5b069fe7b9be30129d84ec8e73a9914095ceee663b36275fc6769369b7/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f336f4b49506b4858705550386c494f3041552f67697068792e676966" height="45" alt="logo">  Technologies that Phan used </h2>
 
-<h4 align="left">Programming Languages ✅</h3>
+<h4 align="left">✅ Programming Languages ✅</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -48,7 +51,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-original.svg" height="40" alt="erlang logo"  />
 </div>
 
-<h4 align="left">Frameworks & Libraries ✅</h3>
+<h4 align="left">✅ Frameworks & Libraries ✅</h3>
 
 
 <div align="left">
@@ -80,7 +83,7 @@
 </div>
 
 
-<h4 align="left">Technologies & Tools ✅</h3>
+<h4 align="left">✅ Technologies & Tools ✅</h3>
 
 
 <div align="left">
@@ -118,7 +121,7 @@
 </div>
 
 
-<h4 align="left">Databases ✅</h3>
+<h4 align="left">✅ Databases ✅</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
@@ -135,7 +138,7 @@
 <br><br><br>
 <hr>
 
-<h2 align="center">🐍 Stats 🐍</h3>
+<h2 align="center">🐍  Contributions</h3>
 
 <br clear="both">
 <div align="center">
@@ -146,5 +149,4 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/phananhnguyen1204/phananhnguyen1204/output/snake.svg" alt="Snake animation" />
 </div>
-
 
