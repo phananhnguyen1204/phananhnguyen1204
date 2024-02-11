@@ -4,24 +4,33 @@
 <hr>
 <h2 align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50" align="center" /> About Me </h2>
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning cloud native and microservices<br>🎯 Goals: ...<br>🎲 : ...</p>
-<ul>
-    <li>
-        Vice President at Depauw Mathematics Club
-    </li>
-    
-</ul>
-
+* 🐯  CS and Math majors at __[Depauw University](https://www.depauw.edu/)__
+* 🌍  I'm based in New York City, NY, USA
+* ✉️  You can contact me at __[phananhn1204@gmail.com](mailto:phananhn1204@gmail.com)__
+* 🧠  I'm currently learning Cloud Native and Microservices
+* 🤝  I'm open to collaborating on intersting projects
+* ⚡  Don't tell people your dream, show them
+* 👯‍♂️ Communities:
+    * __[Vice President at Depauw Mathematics Club]()__
+    * __[Jane and David Stone Civic Leadership Program](https://www.depauw.edu/studentaffairs/communityservicesocialjustice/the-jane-and-david-stone-first-year-civic-leadership-program/)__
+    * __[Vietcode]()__
+<h3> ❤️ Connect with me:
+<br> <br>
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+<!--   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  /> -->
+  <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" height="70" alt="facebook">
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="70" alt="facebook">
+  <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" height="70" alt="facebook">
+  <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" height="70" alt="facebook">
+  <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" height="70" alt="facebook">
 </div>
 
 <hr>
 <h2 align="center"><img src="https://camo.githubusercontent.com/e6f99e5b069fe7b9be30129d84ec8e73a9914095ceee663b36275fc6769369b7/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f336f4b49506b4858705550386c494f3041552f67697068792e676966" height="40" alt="logo">  Technologies that Phan used </h2>
 
-<h4 align="left">✅ Programming Languages ✅</h3>
+<h4 align="left"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="40"> Programming Languages</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -49,7 +58,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-original.svg" height="40" alt="erlang logo"  />
 </div>
 
-<h4 align="left">✅ Frameworks & Libraries ✅</h3>
+<h4 align="left"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="40"> Frameworks & Libraries</h3>
 
 
 <div align="left">
@@ -81,7 +90,7 @@
 </div>
 
 
-<h4 align="left">✅ Technologies & Tools ✅</h3>
+<h4 align="left"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="40"> Technologies & Tools</h3>
 
 
 <div align="left">
@@ -119,7 +128,7 @@
 </div>
 
 
-<h4 align="left">✅ Databases ✅</h3>
+<h4 align="left"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="40"> Databases </h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
@@ -147,4 +156,8 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/phananhnguyen1204/phananhnguyen1204/output/snake.svg" alt="Snake animation" />
 </div>
+
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+[![GitHub stars](https://badgen.net/github/stars/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
+
 
