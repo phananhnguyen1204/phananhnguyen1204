@@ -10,7 +10,7 @@
 * 🤝  I'm open to collaborating on intersting projects
 * ⚡  Don't tell people your dream, show them
 * 👯‍♂️ Communities:
-    * __[Vice President at Depauw Mathematics Club]()__
+    * __[President at Depauw Mathematics Club]()__
     * __[Jane and David Stone Civic Leadership Program](https://www.depauw.edu/studentaffairs/communityservicesocialjustice/the-jane-and-david-stone-first-year-civic-leadership-program/)__
     * __[Vietcode]()__
 <h3> ❤️ Connect with me:
