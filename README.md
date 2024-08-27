@@ -6,7 +6,6 @@
 
 * 🐯  CS and Math majors at __[Depauw University](https://www.depauw.edu/)__
 * 🌍  I'm based in New York City, NY, USA
-* ✉️  You can contact me at __[phananhn1204@gmail.com](mailto:phananhn1204@gmail.com)__
 * 🤝  I'm open to collaborating on intersting projects
 * ⚡  Don't tell people your dream, show them
 * 👯‍♂️ Communities:
