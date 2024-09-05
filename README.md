@@ -4,12 +4,12 @@
 <hr>
 <h2 align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50" align="center" /> About Me </h2>
 
-* 🐯  CS and Math majors at __[Depauw University](https://www.depauw.edu/)__
+* 🐯  CS and Math majors at __[DePauw University](https://www.depauw.edu/)__
 * 🌍  I'm based in New York City, NY, USA
 * 🤝  I'm open to collaborating on intersting projects
 * ⚡  Don't tell people your dream, show them
 * 👯‍♂️ Communities:
-    * __[President at Depauw Mathematics Club]()__
+    * __[President at DePauw Mathematics Club]()__
     * __[Jane and David Stone Civic Leadership Program](https://www.depauw.edu/studentaffairs/communityservicesocialjustice/the-jane-and-david-stone-first-year-civic-leadership-program/)__
     * __[Vietcode]()__
 <h3> ❤️ Connect with me:
